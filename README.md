@@ -27,7 +27,7 @@
 # 安裝與啟動
 本專案可透過梅山旅遊網站連結.txt中的網址連結瀏覽，但部分功能可能會無法正常顯示。
 由於專案使用了 Vue.js/Vuetify，若要在本地啟動專案，需要 Node.js 環境。
-1. 複製專案庫 Bash git clone https://github.com/Ivy-cc515/meishan-tourism-website.git
+1. 複製專案庫 Bash git clone https://github.com/KaigiBaby/meishan-tourism-website.git
 2. cd meishan-tourism-website
 3. 安裝依賴套件 (Install dependencies)請確保您已安裝 Node.js 和 npm。
 4. 配置 Firebase (Firebase Configuration)若要確保網站功能（如瀏覽人次紀錄）正常運作，您需要配置您的 Firebase 專案金鑰。請在專案中找到 Firebase 設定檔案（通常是 .env 檔案或某個設定檔）。填入您的 Firebase Hosting 和 Realtime Database 相關配置資訊。
